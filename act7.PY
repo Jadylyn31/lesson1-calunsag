@@ -1,0 +1,1 @@
+print("ikaW LaNG sApAt Na")
